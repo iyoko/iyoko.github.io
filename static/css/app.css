@@ -43,7 +43,7 @@ ul.list {
 ul.list span.item {
     font-size: 153%;
     font-weight: normal;
-    font-family: 'myriad-pro-light';
+    font-family: 'myriad-pro-light', trebuchet ms, helvetica, sans;
     color: rgb(155, 155, 155);
 }
 
@@ -64,7 +64,7 @@ ul.list span.item {
     margin-top: 19px;
 }
 h1,h2,h3,h4,h5,h6 {
-    font-family: 'myriad-pro-light';
+    font-family: 'myriad-pro-light', trebuchet ms, helvetica, sans;
     color: rgb(220, 210, 200);
 }
 .logo {
